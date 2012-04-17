@@ -1,0 +1,15 @@
+input {
+  display: block;
+}
+#search {
+  width: 800px;
+}
+#search #form {
+  width: 400px;
+  float: left;
+}
+#search #map {
+  width: 400px;
+  height: 400px;
+  float: right;
+}

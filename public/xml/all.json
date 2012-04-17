@@ -1,0 +1,18 @@
+{
+	"retailers": [
+		{
+			"title": "Vibholm Urbutik",
+			"address": "Østergade 25 8000 Århus",
+			"phone": "86125605",
+			"lat": 56.15393,
+			"lng": 10.20790
+		},
+		{
+			"title": "Sct. Mathias Ure-Guld Århus",
+			"address": "Bruuns Galleri 534 M. P. Bruuns gade 8000 Århus",
+			"phone": "86181804",
+			"lat": 56.14825,
+			"lng": 10.20346
+		}
+	]
+}
